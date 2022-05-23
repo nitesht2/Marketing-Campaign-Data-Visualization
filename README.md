@@ -18,7 +18,7 @@ Displaying business KPIs and uncovering customer/buyer person for a targeted mar
 
 - Data Collection
 - Data Preparation
-- Data Connection
+- Connecting with Tableau
 - Creating Dashboard
 - Findings.
 
