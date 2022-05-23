@@ -24,5 +24,3 @@ Uncovering customer/buyer person for a targeted marketing campaign.
 ## Tools:
 - Microsoft Excel
 - Tableau
-
-
