@@ -32,4 +32,9 @@ The reporting analysis is done by creating dashboard as shown below. The public 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/50633864/169910261-081b53f4-5c77-4452-aecd-44bc26122525.png">
 
 ## Ad hoc analysis:
+<img width="676" alt="image" src="https://user-images.githubusercontent.com/50633864/169915745-00b26660-e8f1-48f3-ac2e-3b4494a05160.png">
+
+
+# Finding:
+In the adhoc analysis dashboard, first the barchar is plotted for different age group to see overall customer profile and then gender is stacked on the bar chart to see who isinfluenting the most. Since the top three age group has highest number of female so I made a group of these age group and left rest of the age category. Upon plotting the barchart using these group it shows that the group contributes 45% which validates the idea that, it is good to target 18 to 45 years old females. Also, I have also added different states to be more specific that shows the number of each age group of femal that needs to be targeted based on the states they live.
 
