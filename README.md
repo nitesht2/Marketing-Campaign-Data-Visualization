@@ -1,4 +1,4 @@
-# Creating Customer Persona for Marketing Campaign
+# Marketing Data Analysis
 
 # Introduction
 This data analysis is for non profit organisation whose marketing department wants to find out the customer that the company would want to target for their environmental initiative marketing campaign. Data can be found [here](https://github.com/nitesht2/Marketing-Data-Visualization/blob/main/Buyer%2BPersona%2BCase%2BStudy.csv).
