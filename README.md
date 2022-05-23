@@ -1,7 +1,9 @@
 # Marketing Data Analysis
 
 # Introduction
-This data analysis is for non profit organisation whose marketing department wants to find out the customer that the company would want to target for their environmental initiative marketing campaign. Data can be found [here](https://github.com/nitesht2/Marketing-Data-Visualization/blob/main/Buyer%2BPersona%2BCase%2BStudy.csv).
+This data analysis is for non profit organisation whose marketing department wants to find out the customer that the company would want to target for their environmental initiative marketing campaign. 
+
+Data can be found [here](https://github.com/nitesht2/Marketing-Data-Visualization/blob/main/Buyer%2BPersona%2BCase%2BStudy.csv).
 
 # Business Task:
 First, create a customer demographic’s dashboard that marketing manager can leverage to uncover insights using the data quickly. This will used for reporting and also help to drill down within a specific category. The marketing manager will be able to see where these people live and what age group they belong to. After that, decission will be made for a Facebook ad campaign that targets a specific area and a specific age group.
