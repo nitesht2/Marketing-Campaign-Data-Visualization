@@ -24,3 +24,8 @@ Uncovering customer/buyer person for a targeted marketing campaign.
 ## Tools:
 - Microsoft Excel
 - Tableau
+
+## Dashboard:
+The public link of this dashboard is [here](https://public.tableau.com/app/profile/nitesh.thapa/viz/MarketingDashboard_16533404224250/Customerpersonaformarketingcampaign)
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/50633864/169910261-081b53f4-5c77-4452-aecd-44bc26122525.png">
