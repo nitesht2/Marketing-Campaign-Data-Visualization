@@ -12,7 +12,7 @@ In the second part, I will perform an ad hoc analysis to deep dive into one spec
 - Ad Hoc Analysis
 
 ## Business Task: 
-Uncovering customer/buyer person for a targeted marketing campaign. 
+Displaying business KPIs and uncovering customer/buyer person for a targeted marketing campaign. 
 
 ## Project Planning:
 
