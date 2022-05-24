@@ -29,7 +29,9 @@ Second, Marketing manager wants me to analyze survey data of the company where t
 - Tableau
 
 ## Reporting: 
-The reporting analysis is done by creating dashboard as shown below. The public link of this dashboard is [here](https://public.tableau.com/app/profile/nitesh.thapa/viz/MarketingDashboard_16533404224250/Customerpersonaformarketingcampaign)
+The reporting analysis is done by creating dashboard as shown below.
+
+The public link of this dashboard is [here](https://public.tableau.com/app/profile/nitesh.thapa/viz/MarketingDashboard_16533404224250/Customerpersonaformarketingcampaign)
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/50633864/169910261-081b53f4-5c77-4452-aecd-44bc26122525.png">
 
