@@ -1,4 +1,4 @@
-# Marketing Data Analysis
+# Marketing Campaign Data Analysis
 
 ## Introduction
 This data analysis is for non profit organisation whose marketing department wants to find out the customer that the company would want to target for their environmental initiative marketing campaign. 
